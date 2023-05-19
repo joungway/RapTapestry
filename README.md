@@ -6,14 +6,14 @@ This Python-based project taims to scrape specific elements from a webpage on Ra
 To run this project, you need to install a few Python libraries and tools. Run the following command in your terminal:
 
 ### Install Selenium
-``````pip install selenium``````
+```pip install selenium```
 
 ### Install BeautifulSoup
-``````pip install beautifulsoup4``````
+```pip install beautifulsoup4```
 
 ### Install webdriver_manager
-``````pip install webdriver_manager``````
+```pip install webdriver_manager```
 
-## Download and Set Up ChromeDriver
+### Download and Set Up ChromeDriver
 Selenium requires a driver to interface with choosen browser. Download the correct version of ChromeDriver from the official site. Place the extracted 'chromedriver' file in the same directory as your Python script, and Selenium will be able to access it directly.
 
